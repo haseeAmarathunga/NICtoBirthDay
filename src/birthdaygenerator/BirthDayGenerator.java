@@ -7,10 +7,9 @@ package birthdaygenerator;
 
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
-
 /**
  *
- * @author ClashHacker
+ * @author Hasee Amarathunga
  */
 public class BirthDayGenerator extends javax.swing.JFrame {
 
